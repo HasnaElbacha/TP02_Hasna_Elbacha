@@ -1,0 +1,18 @@
+
+.nombre{
+   display: flex; 
+   color: white;
+   background: blue;
+   width: 24px;
+   height: 24px;
+   display: inline-block;
+   font-size: 30px; 
+   padding:20px; 
+   margin:20px;
+   text-align: center;
+}
+.nbr{
+  position: absolute;
+  top:60%;
+  left:45%;
+}
